@@ -1,6 +1,6 @@
-const PLAY_LIST_ID = ""
+const PLAY_LIST_ID = "PL7SO_m02NcxaBTSjvcH6otlqvZIsyxKSG"
 const URL_DATA_BASE =
-	""
+	"https://api.github.com/repos/victorvitori/chicastelegram/contents/dtBs.json"
 //const TOKEN_DATA_BASE = ""
 const MENSAJE_LISTA_LLENA = "...👀..." //
 
